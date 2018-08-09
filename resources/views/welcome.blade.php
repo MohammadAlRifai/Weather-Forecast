@@ -48,7 +48,7 @@
                     Weather Forcast
                 </div>
                 <div class="center">
-                    Enter your city or your country name to know today's weather forcast
+                    Enter your city name or your country name to know today's weather forcast
                 </div>
         <input id="city">
         <button id="get">Get Weather</button>
